@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **george@heimsnet.eu**
 - 😄 Pronouns: **stinky**
 - ⚡ Fun fact: **nig nog is not a racial slur**
+
+![propaganda](https://media.discordapp.net/attachments/733755878762741820/733756346930954250/euflag_2950399b.jpg)
