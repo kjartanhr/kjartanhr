@@ -9,7 +9,7 @@ here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **nothing**
 - 🤔 I’m looking for help with **penis music**
 - 💬 Ask me about **guacamole boomer penis**
-- 📫 How to reach me: **george@heimsnet.eu**
+- 📫 How to reach me: **george@rascry.org**
 - 😄 Pronouns: **stinky**
 - ⚡ Fun fact: **nig nog is not a racial slur**
 - 📍 Location: **on a big rock in the middle of the ocean**
