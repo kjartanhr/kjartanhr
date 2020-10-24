@@ -11,7 +11,7 @@ here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **nothing**
 - 🤔 I’m looking for help with **penis music**
 - 💬 Ask me about **guacamole boomer penis**
-- 📫 How to reach me: **george@rascry.org**
+- 📫 How to reach me: **george@rascry.org** or for fellow jews: **george@bund.lu**
 - 😄 Pronouns: **stinky**
 - ⚡ Fun fact: **nig nog is not a racial slur**
 - 📍 Location: **on a big rock in the middle of the ocean**
