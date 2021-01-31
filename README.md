@@ -1,21 +1,7 @@
-### no u 👋
+## Hey 👋, This is Kjartan Hrafnkelsson
+[![Gmail Badge](https://img.shields.io/badge/-kjartan@iceland.lu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kjartan@iceland.lu)](mailto:kjartan@iceland.lu) [![Github Badge](https://img.shields.io/badge/-imeuropa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/imeuropa/)](https://www.github.com/imeuropa/) [![Twitter Badge](https://img.shields.io/badge/-imeuropa_eu-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/imeuropa_eu/)](https://www.twitter.com/imeuropa_eu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=www.imeuropa.eu/)](www.imeuropa.eu/) <p align='left'>i code</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=imeuropa alt=imeuropa /> </p>
 
-**imeuropa/imeuropa** is not a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile like it should.
-
-im a fucking snowflake
-
-here are some ideas to get you started:
-
-- 🔭 I’m currently working on **your mom**
-- 🌱 I’m currently learning **at tækniskólinn**
-- 👯 I’m looking to collaborate on **nothing**
-- 🤔 I’m looking for help with **penis music**
-- 💬 Ask me about **guacamole boomer penis**
-- 📫 How to reach me: **george@rascry.org** or for fellow jews: **george@bund.lu**
-- 😄 Pronouns: **stinky**
-- ⚡ Fun fact: **nig nog is not a racial slur**
-- 📍 Location: **on a big rock in the middle of the ocean**
-
-here is propaganda:
-
-![propaganda](https://media.discordapp.net/attachments/733755878762741820/733756346930954250/euflag_2950399b.jpg)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=imeuropa&show_icons=true&include_all_commits=true)](https://github.com/imeuropa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeuropa&layout=compact)](https://github.com/imeuropa/github-readme-stats)
