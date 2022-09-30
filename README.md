@@ -6,4 +6,4 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kjartanhr&show_icons=true&include_all_commits=true)](https://github.com/kjartanhr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjartanhr&layout=compact)](https://github.com/kjartanhr/github-readme-stats)
 ## what do i do?
-i mainly steal code for [@kubburdotcom](https://github.com/kubburdotcom) & [@reiknistofa](https://github.com/reiknistofa)
+i do product design (code plagiarism) for @northlayer
