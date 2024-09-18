@@ -7,3 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjartanhr&layout=compact)](https://github.com/kjartanhr/github-readme-stats)
 ## what do i do
 i make very expensive websites at [@spaugur](https://github.com/spaugur).
+
+## proof i've been on github since i was a kid
+[@kjartann](https://github.com/kjartann)
